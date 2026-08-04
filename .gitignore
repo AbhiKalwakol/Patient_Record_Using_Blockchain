@@ -1,0 +1,9 @@
+node_modules
+frontend/node_modules
+cache
+artifacts
+frontend/dist
+frontend/.vite
+.env
+.DS_Store
+Thumbs.db
